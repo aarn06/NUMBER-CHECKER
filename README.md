@@ -1,6 +1,6 @@
 # NUMBER-CHECKER
 
-Creating a function that checks if a number is odd or even using Pydroid 3.
+CREATING A FUNCTION THAT CHECKS IF A NUMBER IS AN ODD OR EVEN USING THONNY.
 
-Youtube Link:
+YOUTUBE LINK:
 https://youtu.be/Do3AHO-1wjk?si=SIxcqcBIOLU1xl7d
